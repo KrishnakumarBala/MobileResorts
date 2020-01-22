@@ -1,0 +1,1073 @@
+Project created on Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time)
+
+ Info | datasourceDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | App DB initialized
+ Info | settingsDB | init | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | SettingsDB initialized
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:36:57 GMT-0800 (Pacific Standard Time) | Initialized all the DB's
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:37:01 GMT-0800 (Pacific Standard Time) | Project created on file system.
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:37:01 GMT-0800 (Pacific Standard Time) | Added app title to index.html
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:37:01 GMT-0800 (Pacific Standard Time) | Added bundle id to config.xml
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:37:01 GMT-0800 (Pacific Standard Time) | Copying over required plugins including mfp plugin
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:37:01 GMT-0800 (Pacific Standard Time) | Unzip start: 11:37:01 PM
+ Info | IonicStudioUtils | updateAndroidNetworkConfig | Sun Jan 19 2020, 23:37:04 GMT-0800 (Pacific Standard Time) | Succesfully updated android network security configuration
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:37:04 GMT-0800 (Pacific Standard Time) | Copied over required app-build.json file
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:37:50 GMT-0800 (Pacific Standard Time) | Copied over required node modules
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:37:51 GMT-0800 (Pacific Standard Time) | Copied over required plugins
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:39:58 GMT-0800 (Pacific Standard Time) | Copied over required cordova-plugin-mgp
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:39:58 GMT-0800 (Pacific Standard Time) | Unzip finish: 11:39:58 PM
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:39:58 GMT-0800 (Pacific Standard Time) | Installing dependencies and adding platform
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:39:58 GMT-0800 (Pacific Standard Time) | Running npm install
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:15 GMT-0800 (Pacific Standard Time) | npm WARN deprecated @angular/http@5.2.11: Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp
+npm WARN deprecated sw-toolbox@3.6.0: Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw
+npm WARN deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+npm WARN deprecated rollup-plugin-commonjs@8.2.6: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:19 GMT-0800 (Pacific Standard Time) | npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:33 GMT-0800 (Pacific Standard Time) | npm WARN deprecated hawk@3.1.3: This module moved to @hapi/hawk. Please make sure to switch over as this distribution is no longer supported and may contain bugs and critical security issues.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | WARN
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | deprecated
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) |  cryptiles@2.0.5: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | WARN deprecated hoek@2.16.3: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:40:39 GMT-0800 (Pacific Standard Time) | npm WARN deprecated boom@2.10.1: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated sntp@1.0.9: This module moved to @hapi/sntp. Please make sure to switch over as this distribution is no longer supported and may contain bugs and critical security issues.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:37 GMT-0800 (Pacific Standard Time) | 
+> node-sass@4.9.0 install C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\node_modules\node-sass
+> node scripts/install.js
+
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:38 GMT-0800 (Pacific Standard Time) | Cached binary found at C:\Users\admin\AppData\Roaming\npm-cache\node-sass\4.9.0\win32-x64-64_binding.node
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:39 GMT-0800 (Pacific Standard Time) | 
+> uglifyjs-webpack-plugin@0.4.6 postinstall C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\node_modules\uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:39 GMT-0800 (Pacific Standard Time) | 
+> node-sass@4.9.0 postinstall C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\node_modules\node-sass
+> node scripts/build.js
+
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:40 GMT-0800 (Pacific Standard Time) | Binary found at C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\node_modules\node-sass\vendor\win32-x64-64\binding.node
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:40 GMT-0800 (Pacific Standard Time) | Testing binary
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:40 GMT-0800 (Pacific Standard Time) | Binary is fine
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | notice
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  created a lockfile as package-lock.json. You should commit this file.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | WARN
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  @ionic-native/http@5.19.1 requires a peer of @ionic-native/core@^5.1.0 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | WARN
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  ajv-keywords@2.1.1 requires a peer of ajv@^5.0.0 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | WARN
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | optional
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\fsevents):
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | npm
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | WARN
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | notsup
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) |  SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | 
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | added 816 packages from 715 contributors and audited 7377 packages in 277.28s
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:42 GMT-0800 (Pacific Standard Time) | found 67 vulnerabilities (19 low, 22 moderate, 26 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:44 GMT-0800 (Pacific Standard Time) | √ Creating .\www directory for you - done!
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:44:44 GMT-0800 (Pacific Standard Time) | > cordova plugin add C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\mfp-plugin\cordova-plugin-mfp --save
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:45:47 GMT-0800 (Pacific Standard Time) | Adding cordova-plugin-mfp to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:45:50 GMT-0800 (Pacific Standard Time) | > cordova platform add android --save
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:45:55 GMT-0800 (Pacific Standard Time) | Using cordova-fetch for cordova-android@^8.0.0
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | Adding android project...
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | Creating Cordova project for the Android platform:
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | 	Path: platforms\android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | 	Package: com.ibm.mobileresorts
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | 	Name: mobileresorts
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | 	Activity: MainActivity
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:34 GMT-0800 (Pacific Standard Time) | 	Android target: android-28
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:36 GMT-0800 (Pacific Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:36 GMT-0800 (Pacific Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:36 GMT-0800 (Pacific Standard Time) | Android project created with cordova-android@8.1.0
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:37 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-device" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:37 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-dialogs" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:38 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-globalization" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:39 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-ionic-keyboard" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:39 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-ionic-webview" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Subproject Path: CordovaLib
+Subproject Path: app
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-mfp" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Plugin dependency "cordova-plugin-device@2.0.2" already fetched, using that version.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Dependent plugin "cordova-plugin-device" already installed on android.
+Plugin dependency "cordova-plugin-dialogs@2.0.1" already fetched, using that version.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Dependent plugin "cordova-plugin-dialogs" already installed on android.
+Plugin dependency "cordova-plugin-globalization@1.11.0" already fetched, using that version.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Dependent plugin "cordova-plugin-globalization" already installed on android.
+Plugin dependency "cordova-plugin-okhttp@2.0.0" already fetched, using that version.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-okhttp" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:40 GMT-0800 (Pacific Standard Time) | Subproject Path: CordovaLib
+Subproject Path: app
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:42 GMT-0800 (Pacific Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:42 GMT-0800 (Pacific Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:42 GMT-0800 (Pacific Standard Time) | MainActivity.java was backed up as MainActivity.original. A MobileFirst Platform Foundation version of MainActivity.java was added. If you have made changes in the original MainActivity.java, you need to merge them with the current MainActivity.java in the C:\Users\admin\Desktop\DAB-MFP\mobileresorts\ionic\platforms\android\app\src\main\java\com\ibm\mobileresorts directory.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:42 GMT-0800 (Pacific Standard Time) | Dependent plugin "cordova-plugin-okhttp" already installed on android.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:42 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-splashscreen" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:43 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-statusbar" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:43 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-whitelist" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | 
+               This plugin is only applicable for versions of cordova-android greater than 4.0. If you have a previous platform version, you do *not* need this plugin since the whitelist will be built in.
+          
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-whitelist' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-device' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-statusbar' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-splashscreen' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-ionic-webview' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:44 GMT-0800 (Pacific Standard Time) | Plugin 'cordova-plugin-ionic-keyboard' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:47 GMT-0800 (Pacific Standard Time) | > ionic-app-scripts build --target cordova --platform android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  ionic-app-scripts 3.1.11 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  build dev started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  clean started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  clean finished in 2 ms 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  copy started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  deeplinks started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  deeplinks finished in 71 ms 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:46:55 GMT-0800 (Pacific Standard Time) | [23:46:55]  transpile started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:13 GMT-0800 (Pacific Standard Time) | [23:47:13]  transpile finished in 17.41 s 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:13 GMT-0800 (Pacific Standard Time) | [23:47:13]  preprocess started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:13 GMT-0800 (Pacific Standard Time) | [23:47:13]  preprocess finished in 2 ms 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:13 GMT-0800 (Pacific Standard Time) | [23:47:13]  webpack started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:16 GMT-0800 (Pacific Standard Time) | [23:47:16]  copy finished in 21.37 s 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:27 GMT-0800 (Pacific Standard Time) | [23:47:27]  webpack finished in 13.81 s 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:27 GMT-0800 (Pacific Standard Time) | [23:47:27]  sass started ... 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:29 GMT-0800 (Pacific Standard Time) | Without `from` option PostCSS could generate wrong source map and will not find Browserslist config. Set it to CSS file path or to `undefined` to prevent this warning.
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:30 GMT-0800 (Pacific Standard Time) | [23:47:30]  sass finished in 3.58 s 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:30 GMT-0800 (Pacific Standard Time) | [23:47:30]  postprocess started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:30 GMT-0800 (Pacific Standard Time) | [23:47:30]  postprocess finished in 111 ms 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:30 GMT-0800 (Pacific Standard Time) | [23:47:30]  lint started ... 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:30 GMT-0800 (Pacific Standard Time) | [23:47:30]  build dev finished in 35.71 s 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/reservations/reservations.ts, line: 1 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'Renderer' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component, [41mR[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m, NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport {
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/reservations/reservations.ts, line: 4 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'ModalController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mNavController,
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L4:  [22m[41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m,
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L5:  [22mLoadingController
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/reservations/reservations.ts, line: 5 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'LoadingController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L4:  [22m  ModalController,
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L5:  [22m  [41mL[49m[41mo[49m[41ma[49m[41md[49m[41mi[49m[41mn[49m[41mg[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L6:  [22m} from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/chatbot/chatbot.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'ModalController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,[41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/chatbot/chatbot.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'LoadingController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, [41mL[49m[41mo[49m[41ma[49m[41md[49m[41mi[49m[41mn[49m[41mg[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...s/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/resortslist/resortslist.ts, line: 1 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'Renderer' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,[41mR[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...s/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/resortslist/resortslist.ts, line: 1 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'NgZone' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,[41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...s/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/resortslist/resortslist.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'ModalController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,[41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: ...s/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/resortslist/resortslist.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'LoadingController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, [41mL[49m[41mo[49m[41ma[49m[41md[49m[41mi[49m[41mn[49m[41mg[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/landing/landing.ts, line: 1 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'Renderer' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,[41mR[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/landing/landing.ts, line: 1 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'NgZone' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,[41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/landing/landing.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'ModalController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,[41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m, LoadingController } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/landing/landing.ts, line: 2 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             'LoadingController' is declared but its value is never read. 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L1:  [22mimport { Component,Renderer,NgZone,NgModule } from '@angular/core';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L2:  [22mimport { NavController,ModalController, [41mL[49m[41mo[49m[41ma[49m[41md[49m[41mi[49m[41mn[49m[41mg[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/landing/landing.ts, line: 4 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) |             All imports on this line are unused. 
+
+[2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+[2m       L4:  [22m[41mi[49m[41mm[49m[41mp[49m[41mo[49m[41mr[49m[41mt[49m { ReservationsPage } from "../reservations/reservations";
+[2m       L5:  [22mimport { ChatbotPage } from "../chatbot/chatbot";
+
+            'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m } from "@angular/core";
+[2m       L2:  [22mimport { NavController, ModalController } from "ionic-angular";
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone } from "@angular/core";
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from "ionic-angular";
+[2m       L3:  [22mimport { DataStore } from "../../app/dataStore";
+
+            Property 'renderer' is declared but its value is never read. 
+
+[2m      L30:  [22mar: StatusBar, public splashScreen: SplashScreen, private [41mr[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m: Renderer, public modalCtrl: ModalControl
+[2m      L31:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+            Property 'cdr' is declared but its value is never read. 
+
+[2m      L30:  [22mr: Renderer, public modalCtrl: ModalController, private [41mc[49m[41md[49m[41mr[49m: ChangeDetectorRef,public liveUpdateService: Liv
+[2m      L31:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+[23:47:37]  lint finished in 6.97 s 
+
+ Error | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | [33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/home/home.ts, line: 1 [39m
+[33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/pages/home/home.ts, line: 2 [39m
+[33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/app/app.component.ts, line: 30 [39m
+[33m[23:47:37]  tslint: C:/Users/admin/Desktop/DAB-MFP/mobileresorts/ionic/src/app/app.component.ts, line: 30 [39m
+
+Error
+    at o (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:156026)
+    at f (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155352)
+    at Object.error (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:4727:155908)
+    at Socket.s.stderr.on.e (file:///C:/Users/admin/AppData/Local/IBMDigitalAppBuilder/app-8.0.5/resources/app.asar/dist/renderer.prod.js:1:251319)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:37 GMT-0800 (Pacific Standard Time) | > cordova prepare android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:44 GMT-0800 (Pacific Standard Time) | Attempting to install In-App feedback analytics plugin
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:44 GMT-0800 (Pacific Standard Time) | Attempting to create app on server
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:47:44 GMT-0800 (Pacific Standard Time) | All done! You are ready to rock and roll
+ Info | CreatingAppActions | createChart | Sun Jan 19 2020, 23:47:44 GMT-0800 (Pacific Standard Time) | Analytic chart definitions added
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:47:46 GMT-0800 (Pacific Standard Time) | > cordova plugin add cordova-plugin-mfp-analytics@latest --save
+
+Success | CreatingAppActions | createNewAppOnServer | Sun Jan 19 2020, 23:47:52 GMT-0800 (Pacific Standard Time) | App created on the server successfully for 'android' platform
+ Info | CreatingAppActions | createNewAppOnServer | Sun Jan 19 2020, 23:47:52 GMT-0800 (Pacific Standard Time) | {
+  "data": {
+    "transaction": {
+      "id": 61,
+      "type": "UPLOAD_ARTIFACT",
+      "status": "SUCCESS",
+      "project": {
+        "name": "mfp"
+      },
+      "timeCreated": "2020-01-20T07:47:44.417Z",
+      "timeUpdated": "2020-01-20T07:47:45.881Z",
+      "userName": "admin",
+      "appServerId": "Liberty",
+      "errors": [],
+      "warnings": [],
+      "description": {
+        "name": "MULTIPLE",
+        "type": "MULTIPLE",
+        "contentNames": [
+          "com.ibm.mobileresorts$APP_LICENSE_CONFIG",
+          "com.ibm.mobileresorts$android$1.0.0$APP_DESCRIPTOR"
+        ]
+      }
+    },
+    "ok": true,
+    "pushDetails": {
+      "applicationId": "com.ibm.mobileresorts",
+      "enabled": "true",
+      "status": "SUCCESS"
+    },
+    "productVersion": "8.0.0.00-20191204-155855"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Mon, 20 Jan 2020 07:47:52 GMT",
+    "cache-control": "no-cache, no-transform",
+    "content-type": "application/json",
+    "x-powered-by": "Servlet/3.1",
+    "content-length": "556",
+    "content-language": "en-US"
+  },
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json;charset=utf-8",
+      "Authorization": "Basic YWRtaW46YWRtaW4="
+    },
+    "method": "post",
+    "auth": {
+      "username": "admin",
+      "password": "admin"
+    },
+    "url": "http://console-mobilefirst-console.apps.demo.ibmdte.net:80/mfpadmin/management-apis/2.0/runtimes/mfp/applications?async=false",
+    "data": "{\"applicationKey\":{\"version\":\"1.0.0\",\"clientPlatform\":\"android\",\"packageName\":\"com.ibm.mobileresorts\"},\"displayName\":\"mobileresorts\"}"
+  },
+  "request": {}
+}
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:49 GMT-0800 (Pacific Standard Time) | Installing "cordova-plugin-mfp-analytics" for android
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | Plugin dependency "cordova-plugin-mfp@8.0.2019090917" already fetched, using that version.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | Dependent plugin "cordova-plugin-mfp" already installed on android.
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | Adding cordova-plugin-mfp-analytics to package.json
+
+Success | projectHandler | createProject | Sun Jan 19 2020, 23:48:50 GMT-0800 (Pacific Standard Time) | In-App feedback analytics plugin installed successfully
